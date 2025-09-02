@@ -8,9 +8,7 @@ Note: Any file that shares the filename of whatever file is named will have thei
 In other words, put the script in it's own folder, for your safety and my sanity (since I don't like going through GitHub Issues often.)<br>
 Use **Text (GDI+)**, set it up to **Read from File**, then link it to the file in the running directory of the script. Should be named "OBSTimeDate.txt" or whatever you decided to name it.
 # To-dos
-* Make sure the script runs every second.
-  * (Mostly because in it's current state, it runs every time the routine of updating the text file is completed, and that's not exactly efficient.)
-* Allow user to change the name of the text file that writes to the time.
+* Create more to-dos.
 # Requirements
 * Literally just Python
 * A decent computer with how much it updates.
