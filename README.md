@@ -16,6 +16,6 @@ Use **Text (GDI+)**, set it up to **Read from File**, then link it to the file i
 * A decent computer with how much it updates.
 # For contributors:
 * Add yourself in the script!
- * print("name (GitHub Profile link or website)")
+  * print("name (GitHub Profile link or website)")
 * In comments:
- * whatever you wanna say - [shortened name] day-Short Month-YYYY HH:mm (24hr time)
+  * whatever you wanna say - [shortened name] day-Short Month-YYYY HH:mm (24hr time)
