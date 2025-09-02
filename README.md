@@ -11,7 +11,7 @@ Use **Text (GDI+)**, set it up to **Read from File**, then link it to the file i
 * Create more to-dos.
 # Requirements
 * Literally just Python
-* A decent computer with how much it updates.
+* A clock, probably.
 # For contributors:
 * Add yourself in the script!
 `print("name (GitHub Profile link or website)")`
