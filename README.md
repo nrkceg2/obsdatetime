@@ -1,6 +1,7 @@
 # obsdatetime
-A Python script that updates a text file with the current system time.
-Can be used for real time watermarks (e.g.: fake security camera scene)
+A Python script that updates a text file with the current system time.<br>
+Can be used for real time watermarks (e.g.: fake security camera scene)<br>
+This is the first time I've ever used Python for something, please don't smite me.
 # Usage
 Open the script. Note of where the script is stored.<br>
 Note: Any file that shares the filename of whatever file is named will have their contents purged because OBS reads the entire contents of a text file it's told to read from.<br>
