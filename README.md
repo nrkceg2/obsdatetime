@@ -7,6 +7,7 @@ Open the script. Note of where the script is stored.<br>
 Note: Any file that shares the filename of whatever file is named will have their contents purged because OBS reads the entire contents of a text file it's told to read from.<br>
 In other words, put the script in it's own folder, for your safety and my sanity (since I don't like going through GitHub Issues often.)<br>
 Use **Text (GDI+)**, set it up to **Read from File**, then link it to the file in the running directory of the script. Should be named "OBSTimeDate.txt" or whatever you decided to name it.
+<br><img width=375px src=screenshots/usage-gif.gif></img>
 # To-dos
 * Create more to-dos.
 * Upload latest pre-release.
