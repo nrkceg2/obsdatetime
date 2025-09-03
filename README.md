@@ -9,6 +9,7 @@ In other words, put the script in it's own folder, for your safety and my sanity
 Use **Text (GDI+)**, set it up to **Read from File**, then link it to the file in the running directory of the script. Should be named "OBSTimeDate.txt" or whatever you decided to name it.
 # To-dos
 * Create more to-dos.
+* Upload latest prerelease
 # Requirements
 * Literally just Python
 * A clock, probably.
@@ -17,3 +18,6 @@ Use **Text (GDI+)**, set it up to **Read from File**, then link it to the file i
 `print("name (GitHub Profile link or website)")`
 * In comments:
 `# whatever you wanna say - [shortened name] day-Short Month-YYYY HH:mm (24hr time)`
+# Contributors
+* <a href="https://github.com/nrkceg2">nrkceg2</a> - Initial release, original concept, creation.
+* <a href="https://github.com/billysb">BillySB</a> - Optimizations, various suggestions for efficiency, slight re-writes to existing work.
