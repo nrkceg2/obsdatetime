@@ -10,6 +10,8 @@ Use **Text (GDI+)**, set it up to **Read from File**, then link it to the file i
 # To-dos
 * Create more to-dos.
 * Upload latest pre-release.
+* Merge features from latest pre-release and showcase build because I need those.
+* Condense various texts.
 * Easy to follow tutorial.
 # Requirements
 * Literally just Python
