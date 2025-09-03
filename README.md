@@ -9,10 +9,14 @@ In other words, put the script in it's own folder, for your safety and my sanity
 Use **Text (GDI+)**, set it up to **Read from File**, then link it to the file in the running directory of the script. Should be named "OBSTimeDate.txt" or whatever you decided to name it.
 # To-dos
 * Create more to-dos.
-* Upload latest prerelease
+* Upload latest pre-release.
+* Easy to follow tutorial.
 # Requirements
 * Literally just Python
 * A clock, probably.
+* OBS (Or something similar)
+* A computer
+* Python 3.x (originally made on 3.13.2)
 # For contributors:
 * Add yourself in the script!<br>
 `print("name (GitHub Profile link or website)")`
