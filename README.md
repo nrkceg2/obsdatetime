@@ -14,10 +14,12 @@ Use **Text (GDI+)**, set it up to **Read from File**, then link it to the file i
 * Literally just Python
 * A clock, probably.
 # For contributors:
-* Add yourself in the script!
+* Add yourself in the script!<br>
 `print("name (GitHub Profile link or website)")`
-* In comments:
+* In comments:<br>
 `# whatever you wanna say - [shortened name] day-Short Month-YYYY HH:mm (24hr time)`
+* In Readme:<br>
+`* <a href="https://github.com/profilename">Name</a> - List of your additions, keep it succinct, nothing too long, please.`
 # Contributors
-* <a href="https://github.com/nrkceg2">nrkceg2</a> - Initial release, original concept, creation.
+* <a href="https://github.com/nrkceg2">nrkceg2</a> - Initial release, original concept, script creation, testing.
 * <a href="https://github.com/billysb">BillySB</a> - Optimizations, various suggestions for efficiency, slight re-writes to existing work.
