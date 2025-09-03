@@ -18,7 +18,7 @@ Use **Text (GDI+)**, set it up to **Read from File**, then link it to the file i
 * A computer
 * Python 3.x (originally made on 3.13.2)
 # Screenshots:
-<img width=350px src=screenshots/screenshot-0.png>
+<img width=350px src=screenshots/screenshot-0.png></img>
 # For contributors:
 * Add yourself in the script!<br>
 `print("name (GitHub Profile link or website)")`
